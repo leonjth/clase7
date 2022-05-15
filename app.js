@@ -1,1 +1,1 @@
-colsonle.log(1)
+colsonle.log("Hola mundo")
